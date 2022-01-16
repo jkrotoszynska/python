@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 Lokalizacja,Rok,Ilosc
-<<<<<<< HEAD
-=======
-,Rok,Ilosc
->>>>>>> 2017dddb8770049d99173c5b787743c99aa01e80
 Belgium,['2010'],66013
-Bulgaria,['2012'],
+Bulgaria,['2012'],16615.0
 Czechia,['2015'],25684
 Denmark,['2010'],41456
 Germany,['2012'],240001
@@ -36,6 +31,4 @@ Liechtenstein,['2017'],426
 Norway,['2011'],20349
 Switzerland,['2011'],96494
 United Kingdom,['2015'],299183
-North Macedonia,['2018'],
-=======
->>>>>>> parent of 7d782ac (tabela)
+North Macedonia,['2018'],377.0
