@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Lokalizacja,Rok,Ilosc
+<<<<<<< HEAD
 =======
 ,Rok,Ilosc
 >>>>>>> 2017dddb8770049d99173c5b787743c99aa01e80
@@ -36,3 +37,38 @@ Norway,['2016'],34694
 Switzerland,['2018'],130225
 United Kingdom,['2019'],368385
 North Macedonia,['2012'],
+=======
+Belgium,['2010'],66013
+Bulgaria,['2012'],
+Czechia,['2015'],25684
+Denmark,['2010'],41456
+Germany,['2012'],240001
+Estonia,['2014'],4637
+Ireland,['2018'],53735
+Greece,['2010'],62041
+Spain,['2019'],296248
+France,['2017'],215470
+Croatia,['2011'],12699
+Italy,['2010'],78771
+Cyprus,['2010'],4293
+Latvia,['2019'],14583
+Lithuania,['2019'],29273
+Luxembourg,['2011'],9264
+Hungary,['2010'],13365
+Malta,['2011'],3806
+Netherlands,['2010'],95970
+Austria,['2011'],51197
+Poland,['2019'],180594
+Portugal,['2010'],23760
+Romania,['2013'],161755
+Slovenia,['2011'],12024
+Slovakia,['2011'],1863
+Finland,['2010'],11905
+Sweden,['2017'],45620
+Iceland,['2017'],3641
+Liechtenstein,['2017'],426
+Norway,['2011'],20349
+Switzerland,['2011'],96494
+United Kingdom,['2015'],299183
+North Macedonia,['2018'],
+>>>>>>> parent of 7d782ac (tabela)

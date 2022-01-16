@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Lokalizacja,Rok,Ilosc
+<<<<<<< HEAD
 =======
 ,Rok,Ilosc
 >>>>>>> 2017dddb8770049d99173c5b787743c99aa01e80
@@ -36,3 +37,5 @@ Norway,['2011'],20349
 Switzerland,['2011'],96494
 United Kingdom,['2015'],299183
 North Macedonia,['2018'],
+=======
+>>>>>>> parent of 7d782ac (tabela)
